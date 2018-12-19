@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://u14698281.ctcontents.com/drfiles/14698281/325185333/雷霆战机-v1.10.670-(去除64位).ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/c2nvcmu9jwru/c2nvcmu9jwru.github.io/master/icon.jpg</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/c2nvcmu9jwru/c2nvcmu9jwru.github.io/master/icon.jpg</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.tencent.clover</string>
+				<key>bundle-version</key>
+				<string1.10.670</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>雷霆战机-v1.10.670</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
